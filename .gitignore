@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*.zip
+*.csv
+Course project.ipynb
+*.kmz
+*.dbf
+*.prj
+*.shp
+*.shx
+*.kmz
+*.txt
+*.cpg
