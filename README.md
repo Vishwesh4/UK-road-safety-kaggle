@@ -16,7 +16,7 @@ In the data set which has been taken from kaggle competition [UK Road Safety: Tr
 ## Results
 The images is best viewed in a image viewer because of the fine details in the image.
 - <ins>UK severity map</ins>   
-![Alttext](https://github.com/Vishwesh4/Accident-road-map/master/Images/UK_severity.png)  
+![Alttext](./Images/UK_severity.png)  
 
 - <ins>Tables of london roads</ins>  
 Ordered in descending order of casualities 
