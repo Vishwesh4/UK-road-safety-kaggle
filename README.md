@@ -19,10 +19,10 @@ The images is best viewed in a image viewer because of the fine details in the i
 ![Alttext](./Images/UK_severity.png)  
 
 - <ins>Tables of london roads</ins>  
-Ordered in descending order of casualities 
-![Alttext](./Images/Table1.png)   
-Ordered in descending order of casulaity per meter    
-![Alttext](./Images/Table2.png)    
+     - Ordered in descending order of casualities   
+       ![Alttext](./Images/Table1.png)   
+     - Ordered in descending order of casulaity per meter    
+       ![Alttext](./Images/Table2.png)    
 
 - <ins>London road heat map</ins>  
 ![Alttext](./Images/london_road.png) 
