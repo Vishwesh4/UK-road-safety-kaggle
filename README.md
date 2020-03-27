@@ -20,18 +20,18 @@ The images is best viewed in a image viewer because of the fine details in the i
 
 - <ins>Tables of london roads</ins>  
 Ordered in descending order of casualities 
-![Alttext](https://github.com/Vishwesh4/UK-road-safety-kaggle/master/Images/Table1.png)   
+![Alttext](./Images/Table1.png)   
 Ordered in descending order of casulaity per meter    
-![Alttext](https://github.com/Vishwesh4/UK-road-safety-kaggle/master/Images/Table2.png)    
+![Alttext](./Images/Table2.png)    
 
 - <ins>London road heat map</ins>  
-![Alttext](https://github.com/Vishwesh4/UK-road-safety-kaggle/master/Images/london_road.png) 
+![Alttext](./Images/london_road.png) 
 
 - <ins>Manchester road heat map</ins>  
-![Alttext](https://github.com/Vishwesh4/UK-road-safety-kaggle/master/Images/manchester_road.png) 
+![Alttext](./Images/manchester_road.png) 
 
 - <ins>Birmingham road heat map</ins>  
-![Alttext](https://github.com/Vishwesh4/UK-road-safety-kaggle/master/Images/Birmingham_roads.png)  
+![Alttext](./Images/Birmingham_roads.png)  
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
